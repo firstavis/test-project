@@ -3,7 +3,7 @@ development:
     database: db/development.mysql2
     host: localhost
     username: root
-    password: mysqlm3p
+    password: "mysqlm3p"
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
