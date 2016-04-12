@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c0874c1-7284-44e4-9d2e-596e46583201" name="portal3" url="http://192.168.165.11">
+        <fileTransfer host="192.168.165.11" port="22" rootFolder="/usr/local/www/test-project" accessType="SFTP" username="stany">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
